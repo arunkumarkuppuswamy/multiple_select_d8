@@ -1,0 +1,13 @@
+<?php
+/**
+ * @file
+ * Contains some hook implementations for the select or other module
+ */
+
+/**
+ * Implements hook_validation_constraint_alter().
+ *
+ * @param &$definitions
+ *   An associative array of definitions and classes that use them.
+ */
+
